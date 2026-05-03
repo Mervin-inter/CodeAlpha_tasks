@@ -1,0 +1,1 @@
+A phishing attack is a social engineering technique where attackers impersonate legitimate entities—such as banks, employers, or trusted brands—via email, text, or phone to steal sensitive information.
