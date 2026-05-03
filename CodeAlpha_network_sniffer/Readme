@@ -1,0 +1,1 @@
+A Network Sniffer is a tool that captures and analyzes live network packets traveling through your computer's network interface. It uses the scapy library to intercept raw network traffic in real time and displays useful information about each packet.
